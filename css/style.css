@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto";
+}
+
+.navbar-brand {
+  font-weight: 900;
+  color: #29c2b0;
+}
+.nav-link {
+  font-weight: 500;
+  margin-right: 20px;
+  color: #6b7280;
+}
+.nav-item a:hover {
+  color: #29c2b0;
+}
+
+.nav-link .active a {
+  color: #29c2b0 !important;
+  font-weight: 900;
+}
